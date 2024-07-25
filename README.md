@@ -25,7 +25,7 @@
 
   - [x] Ambiente de Desenvolvimento Java
   - [x] Aprendendo a Sintaxe Java
-  - [ ] [<b>Desafio de Projeto</b> : Simulando Uma Conta Bancária Através do Terminal](https://github.com/VitorFran1337/dio-santander)
+  - [x] [<b>Desafio de Projeto</b> : Simulando Uma Conta Bancária Através do Terminal](https://github.com/VitorFran1337/dio-santander/tree/main/ContaBanco)
   - [x] Introdução e Estruturas Condicionais com Java
   - [x] Estruturas de Repetição Java
   - [x] Java e Tratamento de Exceções
