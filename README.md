@@ -47,7 +47,7 @@
 
   - [x] Fundamentos da Programação Orientada a Objetos com Java
   - [x] Pilares da Programação Orientada a Objetos
-  - [ ] [<b>Desafio de Projeto</b> : Modelando um iPhone com UML: Funções de Música, Chamadas e Internet](https://github.com/VitorFran1337/dio-santander)
+  - [x] [<b>Desafio de Projeto</b> : Modelando um iPhone com UML: Funções de Música, Chamadas e Internet]
   - [x] Conhecendo Collections Java
   - [x] Ganhando Produtividade com Stream API
   - [ ] [<b>Desafio de Projeto</b> : Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/VitorFran1337/dio-santander)
