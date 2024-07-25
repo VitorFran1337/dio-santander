@@ -36,7 +36,7 @@
   - [x] Aprendendo o Conceito de Herança em Python
   - [x] Aplicando Encapsulamento em Python
   - [x] Conhecendo Polimorfismo em Python
-  - [ ] [<b>Desafio de Projeto</b> : Criando um Pequeno Sistema Para Validação de Processo Seletivo](https://github.com/VitorFran1337/dio-santander)
+  - [x] [<b>Desafio de Projeto</b> : Criando um Pequeno Sistema Para Validação de Processo Seletivo](https://github.com/VitorFran1337/dio-santander/tree/main/ControleFluxo)
   - [x] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
   - [x] <b>Desafio de Código</b> : Condições, Loops e Exceções na Prática com Java
 
